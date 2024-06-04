@@ -1,5 +1,7 @@
 Entity Development 
-"Dominate Build" 
+Dominate Build
+
+Personal
 
 Arise CPU
 Emerge Instruction Set 
